@@ -55,7 +55,7 @@ This project is an **interactive data visualization dashboard** for **analyzing 
 5️. **Live Dashboard**
    - Displays **student performance, activity trends, and engagement metrics**.
 
-   - ![Dashboard Preview](public/img/pic1.png)
+   - ![Dashboard Preview](https://raw.githubusercontent.com/Harsh7258/EDA-Student-Report-Analysis/main/public/img/pic1.png)
    - ![Dashboard Preview](public/img/pic2.png)
 
 ---
