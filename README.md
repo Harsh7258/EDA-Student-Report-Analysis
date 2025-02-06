@@ -55,6 +55,9 @@ This project is an **interactive data visualization dashboard** for **analyzing 
 5️. **Live Dashboard**
    - Displays **student performance, activity trends, and engagement metrics**.
 
+   - ![Dashboard Preview](public/img/pic1.png)
+   - ![Dashboard Preview](public/img/pic2.png)
+
 ---
 
 ## API Endpoints (Postman Documentation)
@@ -65,7 +68,7 @@ This project is an **interactive data visualization dashboard** for **analyzing 
 ---
 
 ## Project Report (Major Project PDF)
- **Download Major Project Report (PDF):** _Coming Soon..._
+ **Download Major Project Report (PDF):** [📄 Download Project Report](public/major_project_final_.pdf)
 
 >  A detailed **project documentation PDF** will be available soon.
 
@@ -86,5 +89,5 @@ npm run server
 
 4️. Start the frontend:
 npm run dev
-🚀 The dashboard will be live at http://localhost:3000/
+🚀 The dashboard will be live at http://localhost:5173/
 
